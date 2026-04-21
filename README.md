@@ -1,10 +1,20 @@
 # Estrutura de Dados
 
-Alguns assuntos abordados:
-- 
-- Listas Encadeadas;
-- Pilhas;
+Repositório com exercícios de estrutura de dados em C.
+
+## Assuntos abordados
+
+- Listas encadeadas
+- Pilhas
 - Filas
-- Hash Table;
-- Grafos;
-- Árvores.
+- Hash table
+- Grafos
+- Árvores
+
+## Exercícios
+
+- `conteudo_de_duas_listas_encadeadas.c`
+- `insercao_em_arvore_de_busca_binaria.c`
+- `ordenar_lista_encadeada_crescente.c`
+- `pilha.c`
+- `pilha_palavra_palindromo.c`
